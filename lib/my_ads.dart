@@ -53,7 +53,6 @@ class MyAdds extends StatelessWidget {
   }
 }
 
-//........................................................
 //tabOne
 class Tabone extends StatefulWidget {
   const Tabone({Key? key}) : super(key: key);
@@ -113,7 +112,6 @@ class _TaboneState extends State<Tabone> {
   }
 }
 
-//............................................................
 //tabTwo
 class TabTwo extends StatefulWidget {
   const TabTwo({Key? key}) : super(key: key);
